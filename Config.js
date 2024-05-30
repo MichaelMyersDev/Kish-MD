@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['254745936840']
+global.ownernumber = ['556896039181']
 global.ownername = "KISH"//owner name
 global.ytname = "YT: KishBotz.inc"
 global.socialm = "GitHub: Kish-MD"
@@ -22,7 +22,7 @@ global.wm = "Kish botz inc."
 //global.link = 'https://chat.whatsapp.com/LhBwWwQAS4y93XOsCKpxdv'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['·']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
